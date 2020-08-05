@@ -1,0 +1,13 @@
+h2.intro{
+  color: blue;
+  font-style: italic;
+}
+p.intro{
+  color: red;
+}
+img.intro{
+  color: green;
+  font-family: 'Courier New', Courier, monospace;
+  width: 50px;
+}
+
