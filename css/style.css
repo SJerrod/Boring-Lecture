@@ -1,7 +1,12 @@
-
 .intro{
   color: green;
   font-family: 'Courier New', Courier, monospace;
   
 }
+.border1 {
+  border: 2px solid #00FF00;
+}
 
+.border2{
+  border: 2px dotted #46E6D9;
+}
